@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/sociology/社会学入門 - 稲葉振一郎.md",
+                "file": "books/security/Black Hat Python 2nd Edition - Justin Seitz Tim Arnold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "社会学入門 - 稲葉振一郎"
+              "title": "Black Hat Python 2nd Edition - Justin Seitz Tim Arnold"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/sociology/社会学入門 - 稲葉振一郎.md",
+                "file": "books/security/Black Hat Python 2nd Edition - Justin Seitz Tim Arnold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 社会学入門 - 稲葉振一郎"
+              "title": "Backlinks for Black Hat Python 2nd Edition - Justin Seitz Tim Arnold"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/sociology/社会学入門 - 稲葉振一郎.md",
+                "file": "books/security/Black Hat Python 2nd Edition - Justin Seitz Tim Arnold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 社会学入門 - 稲葉振一郎"
+              "title": "Outgoing links from Black Hat Python 2nd Edition - Justin Seitz Tim Arnold"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/sociology/社会学入門 - 稲葉振一郎.md"
+                "file": "books/security/Black Hat Python 2nd Edition - Justin Seitz Tim Arnold.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 社会学入門 - 稲葉振一郎"
+              "title": "Outline of Black Hat Python 2nd Edition - Justin Seitz Tim Arnold"
             }
           },
           {
@@ -175,10 +175,14 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "4c32f6fa0a097d3c",
+  "active": "64fd9749ae6e308c",
   "lastOpenFiles": [
-    "books/sociology/社会学入門　＜多元化する時代＞をどう捉えるか.md",
+    "books/security",
+    "books/security/Black Hat Python 2nd Edition - Justin Seitz Tim Arnold.md",
     "books/sociology/社会学入門 - 稲葉振一郎.md",
+    "books/sociology",
+    "books",
+    "books/sociology/社会学入門　＜多元化する時代＞をどう捉えるか.md",
     "横内大介、青木義充-現場ですぐ使える時系列データ分析～データサイエンティストのための基礎知識～.md",
     "Rid-Cyber War Will Not Take Place.md",
     "井上直也、村山公保、竹下隆史、荒井透、苅田幸雄-マスタリングTCPIP　入門編（第6版）.md",
@@ -187,8 +191,6 @@
     "板垣雄三、金城美幸、早尾貴紀、林裕哲、サラ・ロイ、岡真理、小田切拓-現代思想2024年2月号　特集＝パレスチナから問う——100年の暴力を考える.md",
     "正史-金田一耕助ファイル２　本陣殺人事件＜金田一耕助ファイル＞.md",
     "README.md",
-    "Untitled.canvas",
-    "books/sociology",
-    "books"
+    "Untitled.canvas"
   ]
 }
